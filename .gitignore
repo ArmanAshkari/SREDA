@@ -1,0 +1,8 @@
+.venv/
+UFG/
+ann_consum/
+categorized/
+data/
+dump/
+import.py
+*.xlsx
